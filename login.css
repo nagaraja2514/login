@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(229, 241, 241);
+    
+}
+img{
+    width: 50%;
+    height: 600px;
+    margin: 15px;
+
+}
+body{
+    display: flex;
+}
+.login1{
+    text-align: center;
+    margin: 50px;
+    margin-left: 80px;
+    padding: 50px;
+    border-radius: 15px;
+    width: auto;
+    line-height: 40px;
+    text-align: left;
+    height: 450px;
+    border: black 3px solid;
+}
+ p{
+     text-align: center;
+ }
+ button{
+     text-align: center;
+     width: 100px;
+     margin-left: 40px;
+ }
+ ::placeholder{
+     padding: 10px;
+ }
+ input{
+     padding: 10px;
+     border-radius: 10px;
+ }
+ .inst{
+     height: 40px;
+     width: 30px;
+     padding: 5px;
+     
+
+ }
